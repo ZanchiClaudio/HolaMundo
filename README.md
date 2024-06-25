@@ -9,3 +9,6 @@ Me gusta la Formula 1
 Mi ultima linea en mi repositorio
 
 finalizado con gitHub
+
+Nueva actividad
+Modificacion del readme
